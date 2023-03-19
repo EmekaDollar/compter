@@ -1,24 +1,9 @@
 # compter-app
+compter means count in french.
 
-## Project setup
 ```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
+This project is the third semester examination assessment for Altschool.
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Hosted Link
+See or Click [Vercel link](https://compter-application.vercel.app/).
