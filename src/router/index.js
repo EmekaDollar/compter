@@ -1,8 +1,14 @@
 import { createRouter, createWebHistory } from 'vue-router'
 import CounterView from '../views/CounterView.vue'
+import HomeView from '../views/HomeView.vue'
 import NotFound from '../views/NotFound.vue'
 
 const routes = [
+  {
+    path: '/',
+    name: 'home',
+    component: HomeView
+  },
   {
     path: '/counter',
     name: 'counter',
